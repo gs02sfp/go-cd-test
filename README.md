@@ -1,2 +1,2 @@
 # go-cd-test
-Repo for Go-Cd testing
+Repository for Go-Cd testing.
